@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://imgflip.com/gif/a6ma63"  />
+</div>
+
+###
+
 <p align="left">My name is Haris Gunawan Romadon and I'm Backend dev from Indonesian.</p>
 
 ###
@@ -39,6 +45,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
+
+###
 
 ###
 
